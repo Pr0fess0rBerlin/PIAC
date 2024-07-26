@@ -1,6 +1,12 @@
 # Assignment 1 Q1
 
+
+
 # Assignment 1: Differentiating AI, Machine Learning, Deep Learning, Generative AI, and Applied AI
+
+![WhatsApp Image 2024-07-26 at 04 31 52_e6f5b2f8](https://github.com/user-attachments/assets/abcc2f75-d8b3-4f5f-b88a-2aa2b25d85e6)
+
+
 
 ## Introduction
 Artificial Intelligence (AI) is a broad and evolving field encompassing various technologies and methodologies aimed at creating intelligent systems. Understanding the distinctions between AI, Machine Learning (ML), Deep Learning (DL), Generative AI, and Applied AI is essential for comprehending the scope and capabilities of modern AI applications.
